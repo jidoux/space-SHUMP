@@ -1,0 +1,1 @@
+This program is my cs382 game design project 3, you have a ship and you need to shoot a bunch of enemies, galaga type game
